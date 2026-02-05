@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rainikhil723&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![](https://leetcard.jacoblin.cool/rainikhil723?ext=heatmap)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rainikhil723&limit=5&theme=dark&combine_all_yearly_contributions=true)
