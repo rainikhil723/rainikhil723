@@ -15,7 +15,7 @@
 
 ![](https://leetcard.jacoblin.cool/rainikhil723?ext=contest)
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={rainikhil723})
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=rainikhil723)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rainikhil723&limit=5&theme=dark&combine_all_yearly_contributions=true)
